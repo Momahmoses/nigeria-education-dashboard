@@ -1,9 +1,9 @@
 # National Education Performance Dashboard
 
-A live Streamlit dashboard used by Nigeria's Ministry of Education — replacing 47 Excel reports with interactive analytics, maps, and a policy what-if simulator.
+A live Streamlit dashboard used by Nigeria's Ministry of Education, replacing 47 Excel reports with interactive analytics, maps, and a policy what-if simulator.
 
 ## Problem
-Nigeria's Ministry of Education has WAEC results, school census data, teacher ratios, and budget data — all in separate Excel files, never combined. Policymakers make decisions blind.
+Nigeria's Ministry of Education has WAEC results, school census data, teacher ratios, and budget data, all in separate Excel files, never combined. Policymakers make decisions blind.
 
 ## Quick Start
 
